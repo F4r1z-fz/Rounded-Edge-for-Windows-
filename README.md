@@ -12,7 +12,7 @@ Screenshots :
 
 ## Build
 
-Requires .NET SDK 8.0 or later.
+Using .NET SDK 8.0 or later.
 
 
 ## How to use
