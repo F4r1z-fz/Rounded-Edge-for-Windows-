@@ -1,6 +1,6 @@
 # Rounded Edge
 
-A small WPF Windows overlay app that displays a rounded-corner screen mask above other applications with a kawaii anime-inspired control panel.
+A small WPF Windows overlay app that displays a rounded-corner screen mask above other applications with a control panel.
 
 Screenshots :
 
