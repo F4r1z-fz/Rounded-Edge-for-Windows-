@@ -23,9 +23,9 @@ Requires .NET SDK 8.0 or later.
 4. Type exact values directly into the numeric fields and press `Enter` or click outside the field.
    - `Roundness` accepts values from `0` to `200`, Default Value is `12` .
    - `Opacity` accepts values from `0` to `100`, Default Value is `100`.
-5. Click `Show Overlay` to bring the settings window back if it is hidden.
-6. Minimize the settings window to send it to the system tray.
-7. Right-click the tray icon to reopen the window or exit the application.
+5. Click `Reset` to Change the values to default.
+5. Click `Minimize` to put application back into the Tray.
+6. Right-click the tray icon to reopen the window or exit the application or click `exit` from application.
 
 ## Notes
 
